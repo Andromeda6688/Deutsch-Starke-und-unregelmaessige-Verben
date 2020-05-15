@@ -1,0 +1,9 @@
+I:\euler\WindowsFormsApplication1\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+I:\euler\WindowsFormsApplication1\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+I:\euler\WindowsFormsApplication1\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojResolveAssemblyReference.cache
+I:\euler\WindowsFormsApplication1\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+I:\euler\WindowsFormsApplication1\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
+I:\euler\WindowsFormsApplication1\CodedUITestProject1\bin\Debug\Statistics.xml
+I:\euler\WindowsFormsApplication1\CodedUITestProject1\bin\Debug\VerbFormen.xlsx
+I:\euler\WindowsFormsApplication1\CodedUITestProject1\bin\Debug\WindowsFormsApplication1.exe
+I:\euler\WindowsFormsApplication1\CodedUITestProject1\bin\Debug\WindowsFormsApplication1.pdb

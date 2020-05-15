@@ -1,0 +1,9 @@
+I:\euler\WindowsFormsApplication1\VerbTest\bin\Debug\Statistics.xml
+I:\euler\WindowsFormsApplication1\VerbTest\bin\Debug\VerbFormen.xlsx
+I:\euler\WindowsFormsApplication1\VerbTest\bin\Debug\VerbTest.dll
+I:\euler\WindowsFormsApplication1\VerbTest\bin\Debug\VerbTest.pdb
+I:\euler\WindowsFormsApplication1\VerbTest\bin\Debug\WindowsFormsApplication1.exe
+I:\euler\WindowsFormsApplication1\VerbTest\bin\Debug\WindowsFormsApplication1.pdb
+I:\euler\WindowsFormsApplication1\VerbTest\obj\Debug\VerbTest.csprojResolveAssemblyReference.cache
+I:\euler\WindowsFormsApplication1\VerbTest\obj\Debug\VerbTest.dll
+I:\euler\WindowsFormsApplication1\VerbTest\obj\Debug\VerbTest.pdb

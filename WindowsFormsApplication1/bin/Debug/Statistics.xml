@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Statistics>
+  <DayResult Date="03.11.2019">
+    <Score>740</Score>
+    <Score>750</Score>
+    <Score>760</Score>
+  </DayResult>
+  <DayResult Date="02.11.2019">
+    <Score>730</Score>
+    <Score>720</Score>
+    <Score>710</Score>
+  </DayResult>
+  <DayResult Date="30.10.2019">
+    <Score>710</Score>
+  </DayResult>
+  <DayResult Date="04.11.2019">
+    <Score>750</Score>
+    <Score>560</Score>
+    <Score>680</Score>
+    <Score>770</Score>
+    <Score>680</Score>
+    <Score>540</Score>
+  </DayResult>
+  <DayResult Date="05.11.2019">
+    <Score>850</Score>
+    <Score>800</Score>
+    <Score>1000</Score>
+    <Score>800</Score>
+    <Score>700</Score>
+  </DayResult>
+  <DayResult Date="27.11.2019">
+    <Score>740</Score>
+    <Score>540</Score>
+    <Score>560</Score>
+    <Score>590</Score>
+    <Score>630</Score>
+  </DayResult>
+  <DayResult Date="29.11.2019">
+    <Score>690</Score>
+    <Score>630</Score>
+    <Score>570</Score>
+    <Score>730</Score>
+    <Score>540</Score>
+    <Score>590</Score>
+    <Score>700</Score>
+    <Score>710</Score>
+    <Score>710</Score>
+    <Score>820</Score>
+  </DayResult>
+</Statistics>
